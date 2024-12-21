@@ -12,11 +12,11 @@ def write_unique_words(input_file_path, output_file_path):
         with open(output_file_path, 'w', encoding='utf-8') as file:
             for word in sorted(unique_words):
                 file.write(word + '\n')
-        print(f"文件已成功写入到 {output_file_path}")
+        print(f"The file has been successfully written to {output_file_path}")
     except FileNotFoundError:
-        print(f"文件 {input_file_path} 未找到。")
+        print(f"File {input_file_path} not found")
     except Exception as e:
-        print(f"发生错误：{e}")
+        print(f"An error has occurred:{e}")
 
 
 input_file_path = 'input.txt'

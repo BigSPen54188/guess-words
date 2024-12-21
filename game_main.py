@@ -6,7 +6,7 @@ with open("words.txt", 'r', encoding='utf-8') as file:
 
 
 def reload():
-    return start(words) if input("是否再来一局:(y/n)").strip().lower() == "y" else exit(0)
+    return start(words) if input("Anther game?:(y/n)").strip().lower() == "y" else exit(0)
 
 
 def start(words):
@@ -44,7 +44,7 @@ def start(words):
         print(f"haven't tried: {''.join(remaining_letters)}", end="")
         num -= 1
         output += "\n"
-        print(f"        还剩{num}次机会")
+        print(f"        {num}chance left") if num == 1 else print(f"        {num}chances left")
     print(f'\033[31myou lose, the correct word is "{chosen_word}"\033[0m')
     reload()
 
