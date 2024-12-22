@@ -44,7 +44,7 @@ def start(words):
         print(f"haven't tried: {''.join(remaining_letters)}", end="")
         num -= 1
         output += "\n"
-        print(f"        {num}chance left") if num == 1 else print(f"        {num}chances left")
+        print(f"        {num}chance left") if num == 1 else print(f"        {num} chances left")
     print(f'\033[31myou lose, the correct word is "{chosen_word}"\033[0m')
     reload()
 

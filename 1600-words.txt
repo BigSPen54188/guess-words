@@ -1,4 +1,3 @@
-a
 able
 about
 above
@@ -76,7 +75,6 @@ anywhere
 appear
 apple
 april
-are
 area
 arm
 army
@@ -229,7 +227,6 @@ category
 cause
 celebrate
 cell
-cent
 center
 central
 century
@@ -259,7 +256,6 @@ choice
 choose
 chop
 chopsticks
-christmas
 church
 circle
 circuit
@@ -532,8 +528,6 @@ effective
 effort
 egg
 eight
-eighteen
-eighty
 either
 elder
 electrical
@@ -646,7 +640,6 @@ fetch
 fever
 few
 field
-fifteen
 fight
 figure
 file
@@ -664,7 +657,6 @@ firm
 first
 fish
 fit
-five
 fix
 flag
 flame
@@ -692,7 +684,6 @@ fortune
 forward
 found
 four
-fourteen
 fourth
 fox
 frame
@@ -803,7 +794,6 @@ hello
 help
 helpful
 hen
-her
 here
 hero
 herself
@@ -922,7 +912,6 @@ invitation
 invite
 involve
 iron
-is
 island
 issue
 it
@@ -1379,7 +1368,6 @@ population
 portion
 position
 positive
-possessions
 possibility
 possible
 post
@@ -1639,7 +1627,6 @@ service
 session
 set
 seven
-seventeen
 several
 sew
 sex
@@ -1692,7 +1679,6 @@ sit
 site
 situation
 six
-sixteen
 size
 skill
 skin
@@ -1879,7 +1865,6 @@ television
 tell
 temperature
 temporary
-ten
 tend
 tennis
 tense
@@ -1907,7 +1892,6 @@ thin
 thing
 think
 third
-thirteen
 this
 those
 though
